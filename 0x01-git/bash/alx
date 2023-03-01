@@ -1,4 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-=======
->>>>>>>master
+echo 'ALX school'
